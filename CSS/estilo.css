@@ -255,7 +255,7 @@ footer .contacto input[type="submit"]:hover{
 
 @media screen and (max-width:630px){
     header .contenido-header .titulo-header{
-        font-size: 80px;
+        font-size: 50px;
     }
     header .contenido-header .linea-header{
         width: 400px;
